@@ -6,4 +6,6 @@ The library is intended to work as a reference and basis for implementing other 
 
 I'm releasing this in case someone finds it useful, but I'm not planning to keep it updated and cannot provide any support.
 
-Licence: MIT (I think)
+## Licence 
+
+MIT (I think)
