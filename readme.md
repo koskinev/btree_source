@@ -5,3 +5,5 @@ This repository contains a copy of the source code for the `BTreeMap` and `BTree
 The library is intended to work as a reference and basis for implementing other tree data structures in Rust. 
 
 I'm releasing this in case someone finds it useful, but I'm not planning to keep it updated and cannot provide any support.
+
+Licence: MIT (I think)
