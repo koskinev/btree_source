@@ -1,4 +1,4 @@
-# Source for the BTreeMap and BTreeSet types from the Rust standard library    
+# About    
 
 This repository contains a copy of the source code for the `BTreeMap` and `BTreeSet` types from the Rust standard library. Minimal changes to the code were made to it to compile as a stand-alone library and pass all the tests. The original source code was downloaded on 2022-06-04 from https://github.com/rust-lang/rust/tree/master/library/alloc/src/collections/btree. Tests were run on Rust 1.61.0 stable. 
 
