@@ -1,0 +1,11 @@
+[package]
+name = "btree"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/rust-lang/rust.git"
+description = "The Rust BTreeMap and BTreeSet types as a standalone library."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
