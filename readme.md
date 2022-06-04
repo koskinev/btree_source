@@ -8,7 +8,8 @@ I'm releasing this in case someone finds it useful, but I'm not planning to keep
 
 ## Example
 
-Usage is obviosly similar to the types provided by the standard library:
+Usage is similar to the standard library:
+
 ```rust
 use btree::map::BTreeMap; // Instead of std::collections::BTreeMap
 
