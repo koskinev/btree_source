@@ -8,6 +8,8 @@ I'm releasing this in case someone finds it useful, but I'm not planning to keep
 
 ## Example
 
+You may want to clone or download the source and add the package as a local dependency. See the [Cargo book](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html) for examples.
+
 Usage is similar to the standard library:
 
 ```rust
